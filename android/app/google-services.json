@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164464086649",
+    "project_id": "yoga-20422",
+    "storage_bucket": "yoga-20422.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164464086649:android:506356f4d807e6958c0ea8",
+        "android_client_info": {
+          "package_name": "com.flutterflow.fluttermet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeaADIQ2kBGRQ6bBbXuEcdpwm4NFp5p4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
